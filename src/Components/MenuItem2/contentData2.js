@@ -1,13 +1,14 @@
-import agrislide1 from '../../Assets/Agri university/1.jpg';
-import agrislide2 from '../../Assets/Agri university/2.jpg';
-import agrislide3 from '../../Assets/Agri university/3.jpg';
-import agrislide4 from '../../Assets/Agri university/4.jpg';
-import agrislide5 from '../../Assets/Agri university/5.jpg';
-import agrislide6 from '../../Assets/Agri university/6.jpg';
-import agrislide7 from '../../Assets/Agri university/7.jpg';
-import agrislide8 from '../../Assets/Agri university/8.jpg';
-import agrislide9 from '../../Assets/Agri university/9.jpg';
-import agrislide10 from '../../Assets/Agri university/10.jpg';
+import agrislide1 from '../../Assets/Agriuniversity/1.jpg';
+import agrislide2 from '../../Assets/Agriuniversity/2.jpg';
+import agrislide3 from '../../Assets/Agriuniversity/3.jpg';
+import agrislide4 from '../../Assets/Agriuniversity/4.jpg';
+import agrislide5 from '../../Assets/Agriuniversity/5.jpg';
+import agrislide6 from '../../Assets/Agriuniversity/6.jpg';
+import agrislide7 from '../../Assets/Agriuniversity/7.jpg';
+import agrislide8 from '../../Assets/Agriuniversity/8.jpg';
+import agrislide9 from '../../Assets/Agriuniversity/9.jpg';
+import agrislide10 from '../../Assets/Agriuniversity/10.jpg';
+
 
 
 const contentData2 = [

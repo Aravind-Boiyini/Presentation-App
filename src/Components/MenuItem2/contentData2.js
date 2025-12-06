@@ -1,13 +1,14 @@
-import agrislide1 from '../../Assets/Agriuniversity/1.jpg';
-import agrislide2 from '../../Assets/Agriuniversity/2.jpg';
-import agrislide3 from '../../Assets/Agriuniversity/3.jpg';
-import agrislide4 from '../../Assets/Agriuniversity/4.jpg';
-import agrislide5 from '../../Assets/Agriuniversity/5.jpg';
-import agrislide6 from '../../Assets/Agriuniversity/6.jpg';
-import agrislide7 from '../../Assets/Agriuniversity/7.jpg';
-import agrislide8 from '../../Assets/Agriuniversity/8.jpg';
-import agrislide9 from '../../Assets/Agriuniversity/9.jpg';
-import agrislide10 from '../../Assets/Agriuniversity/10.jpg';
+import PJTSAUslide1 from "../../assets/Agri Dept 12 Slides 2025 Vs 2047/1.jpg";
+import PJTSAUslide2 from "../../assets/Agri Dept 12 Slides 2025 Vs 2047/2.jpg";
+import PJTSAUslide3 from "../../assets/Agri Dept 12 Slides 2025 Vs 2047/3.jpg";
+import PJTSAUslide4 from "../../assets/Agri Dept 12 Slides 2025 Vs 2047/4.jpg";
+import PJTSAUslide5 from "../../assets/Agri Dept 12 Slides 2025 Vs 2047/5.jpg";
+import PJTSAUslide6 from "../../assets/Agri Dept 12 Slides 2025 Vs 2047/6.jpg";
+import PJTSAUslide7 from "../../assets/Agri Dept 12 Slides 2025 Vs 2047/7.jpg";
+import PJTSAUslide8 from "../../assets/Agri Dept 12 Slides 2025 Vs 2047/8.jpg";
+import PJTSAUslide9 from "../../assets/Agri Dept 12 Slides 2025 Vs 2047/9.jpg";
+import PJTSAUslide10 from "../../assets/Agri Dept 12 Slides 2025 Vs 2047/10.jpg";
+
 
 
 
@@ -16,35 +17,36 @@ const contentData2 = [
     title: "Schemes and Subsidies",
     sections: [
       {
-       image: agrislide1,
+      image: PJTSAUslide1
       },
       {
-       image: agrislide2,
+       image: PJTSAUslide2
       },
       {
-        image: agrislide3,
+        image: PJTSAUslide3
       },
       {
-        image: agrislide4,
+        image: PJTSAUslide4
+      },  
+      {
+        image: PJTSAUslide5
       },
       {
-        image: agrislide5,
+        image: PJTSAUslide6
       },
       {
-        image: agrislide6,
+        image: PJTSAUslide7
       },
       {
-        image: agrislide7,
+        image: PJTSAUslide8
       },
       {
-        image: agrislide8,
+        image: PJTSAUslide9
       },
       {
-        image: agrislide9,
+        image: PJTSAUslide10
       },
-      {
-        image: agrislide10,
-      },
+      
       
    
     

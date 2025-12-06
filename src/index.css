@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* in src/index.css or global.css */
+/* src/index.css */
+.clip-path-polygon {
+  clip-path: polygon(30% 18%, 30% 82%, 80% 50%);
+}
+/* Nice slim green scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #1e7a32;
+  border-radius: 10px;
+}
+

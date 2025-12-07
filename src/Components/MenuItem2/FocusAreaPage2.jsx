@@ -50,10 +50,10 @@ export default function FocusAreaPage() {
         <div className="col-span-9 lg:col-span-10 p-6 relative"> 
 
           {/* Sticky Buttons */}
-          <div className="fixed flex gap-6 top-4 right-6 z-20">
+          {/* <div className="fixed flex gap-6 top-4 right-6 z-20">
             <BackButton onBack={handleBack} />
             <HomeButton />
-          </div>
+          </div> */}
 
           {/* Content area - not scrollable */}
     <div className="mt-20 h-[calc(100vh-100px)] overflow-y-auto pr-4">
@@ -61,6 +61,10 @@ export default function FocusAreaPage() {
 </div>
 
         </div>
+      </div>
+      <div className="fixed flex justify-end gap-6 bottom-4 right-6 left-1/4 lg:left-[25%] pr-6 z-20">
+        <BackButton onBack={handleBack} />
+        <HomeButton />
       </div>
     </div>
   );

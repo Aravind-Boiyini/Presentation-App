@@ -181,7 +181,7 @@ const contentData3 = [
   },
 
   {
-    title: "Inventory of Post Harvest infrastructure in Telangana",
+    title: "Micro Irrigation Impacta",
     sections: [
       {
         image: MIPslide1

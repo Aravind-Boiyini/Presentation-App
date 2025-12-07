@@ -4,7 +4,7 @@ const menuItems = [
   "Oil palm scenario in Telangana",
     "Oil Palm FFB price trends (Graph)",
   "COEs and Horticulture Farms",
-  "Inventory of Post Harvest infrastructure in Telangana",
+  "Micro Irrigation Impact",
   "Success Stories –MIDH",
   "Success Stories - Pandals for Vegetables",
   "Success Stories – Oil Palm",

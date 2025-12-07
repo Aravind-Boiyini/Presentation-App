@@ -1,5 +1,11 @@
 const menuItems = [
   "2025 Vs 2047",
+  "We Transform Agriculture",
+  "Crop Loan Waiver Success Stories",
+  "Natural Farming Success Stories",
+  "Rythu Bharosa Success Stories",
+  "Rythu Bima Success Stories",
+  "Soil Health Cards Success Stories",
  
 ];
 
